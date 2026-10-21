@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.1",
   "notes": "## XForge - Chronos 1.2.1\n\n### Novidade\n- **Atualização automática**: o app avisa quando há versão nova e, com sua autorização, baixa e instala sozinho (Configuracoes › Atualizacoes tambem forcA a verificacao).\n\n### Como instalar\nBaixe o `XForge - Chronos_1.2.1_x64-setup.exe` abaixo e execute. Quem ja tem a 1.2.0 recebe o aviso de atualizacao automaticamente.\n\n### Integridade\n```\n﻿SHA-256: e4bf18b84a258915c2adaea50a0af3399c5db333c703e41a2ca11a91c9d3b39e  10.81 MB\n```\n",
   "pub_date": "2026-10-21T21:17:45Z",
   "platforms": {
